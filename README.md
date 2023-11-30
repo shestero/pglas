@@ -32,7 +32,7 @@ pglas=# select * from las_curves('/home/.../lasrs/sample/A10.las');
    5 | NetGross
 (6 rows)
 
-pglas=# select * from las_curve('/home/shestero/lasrs/sample/A10.las','Gamma');
+pglas=# select * from las_curve('/home/.../lasrs/sample/A10.las','Gamma');
    DEPT   |    VAL    
 ----------+-----------
  1499.879 |          
