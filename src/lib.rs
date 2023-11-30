@@ -93,6 +93,5 @@ fn las_curve(
         .collect();
     let v = vec_of_result_to_result_of_vec(v0)?;
 
-    // let v: Vec<(f64, f64)> = dept.iter().copied().zip(val.iter().copied()).collect();
     Ok(TableIterator::new(v))
 }
