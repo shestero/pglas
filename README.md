@@ -1,5 +1,5 @@
 # pglas
-PostgreSQL extension to Read LAS 2.0 (well logging file).
+PostgreSQL extension to read LAS 2.0 (well logging file).
 
 _Note: LAS files are: https://en.wikipedia.org/wiki/Log_ASCII_standard .
 Please, don't confuse with LIDAR files with the same extension!!_
