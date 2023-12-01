@@ -51,3 +51,5 @@ pglas=# select * from las_curve('/home/.../lasrs/sample/A10.las','Gamma');
  1504.629 |   73.4478
 ...
 ```
+
+See also: https://en.wikipedia.org/wiki/Well_logging
