@@ -2,7 +2,7 @@
 PostgreSQL extension to Read LAS 2.0 (well logging file).
 
 _Note: LAS files are: https://en.wikipedia.org/wiki/Log_ASCII_standard .
-Please, don't confuse with LIDAR files !!_
+Please, don't confuse with LIDAR files with the same extension!!_
 
 Supports only version 2.0 of [LAS Specification](https://www.cwls.org/wp-content/uploads/2017/02/Las2_Update_Feb2017.pdf). For more information about this format, see the [Canadian Well Logging Society](http://www.cwls.org).
 
